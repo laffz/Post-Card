@@ -1,0 +1,35 @@
+body{
+    background: peru
+    fontsize: 18px;
+}
+.postcardHEADER img{
+    max-width: 40px;
+    float: right;
+}
+.postCARD{
+    background: grey;
+    width: 550px;
+    height: 400px;
+    margin: auto;
+    padding: 15px;
+}
+.postCARD h1{
+    margin: 0;
+}
+.leftPART{
+    float: left;
+    width: 50%;
+    margin-right: auto;
+}
+.rightPART{
+    margin-left: auto;
+}
+
+.postcardFOOTER{ 
+    display: block;
+    text-align: center;
+}
+input{
+    font-size: 20px;
+}
+}
